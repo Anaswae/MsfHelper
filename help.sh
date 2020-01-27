@@ -11,7 +11,7 @@ echo "$pi"
 echo "[¤¤¤]$h    METASPLOIT HELPER $pi   [¤¤¤]"
 echo "._________________________________. "
 echo "[]                               [] "
-echo "[]$pu Author   : Mr.BarBar $pi         [] "
+echo "[]$pu Author   : MhankBarBar$pi       [] "
 echo "[]$pu Contact  : 6285693587969     $pi [] "
 echo "[]_______________________________[]"
 echo ""
@@ -149,7 +149,7 @@ echo ""
 echo $pi"[¤]$n script ini fungsinya untuk mempermudah penggunaan metasploit "
 echo $pi"[¤]$n payload yg dibuat tersimpan didalam memori internal"
 echo $pi"[¤]$n sebelum membuat payload usahakan sudah menginstall metasploit "
-echo $pi"[¤]$n jangan lupa kunjungi Contact Saya Jika Ada Yang Eror:v"
+echo $pi"[¤]$n jangan lupa Contact Saya Jika Ada Yang Eror:v"
 echo $h"https://wa.me/6285693587969 "$n
 echo " $pi "; cal
 echo " $h  "; date
